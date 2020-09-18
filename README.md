@@ -13,14 +13,4 @@ ER-Diagram
 
 ![Er-Diagram](/Diagrams/ERD.png)
 
-Execution
------------
-
-```
-sudo mysql
-source <path>/SQL/Proj-INIT.sql;
-source <path>/SQL/Proj-INSERT.sql;
-source <path>/SQL/Proj-QUERY.sql;
-```
-
 
